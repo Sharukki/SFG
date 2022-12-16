@@ -15,6 +15,9 @@ diff <(zcat file1.zip) <(zcat file2.zip)
 
 `sudo apt install zipcmp -y`
 
+```
+sudo apt full-upgrade
+``` 
 # Benutzung von zipcmp
 Muss noch gucken
 
