@@ -13,7 +13,7 @@ oder
 diff <(zcat file1.zip) <(zcat file2.zip)
 # Alternativ das in C geschriebene Paket zipcmp installieren
 
-sudo apt install zipcmp -y
+'sudo apt install zipcmp -y'
 
 # Benutzung von zipcmp
 Muss noch gucken
